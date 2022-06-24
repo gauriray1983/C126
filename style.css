@@ -1,0 +1,25 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  color: rgb(251, 255, 0);
+  font-family: 'Lobster', cursive;
+}
+.note
+{
+  font-size: 22px;
+  color: rgb(0, 0, 0);
+  font-family: 'Lobster', cursive;
+}
+body
+{
+  background-size: cover;	
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+      font-family: 'Lobster', cursive;
+      color: rgb(0, 208, 227);
+  }
